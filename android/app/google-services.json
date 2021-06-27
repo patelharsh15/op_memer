@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "507179268523",
+    "firebase_url": "https://social-network-app-d9e8c-default-rtdb.firebaseio.com",
+    "project_id": "social-network-app-d9e8c",
+    "storage_bucket": "social-network-app-d9e8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507179268523:android:e6cf319d8fbae105f1baee",
+        "android_client_info": {
+          "package_name": "com.hp.memer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507179268523-re7qqa0qjmrcln5kc15td9f2a0h8vdvk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hp.memer",
+            "certificate_hash": "fc412a4e3c784cf13ca528b2daf16b2e44367924"
+          }
+        },
+        {
+          "client_id": "507179268523-uk38v3k0jissnkk9i9fglfn9p9r3s9hi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hp.memer",
+            "certificate_hash": "9403e067ecbfe391f8e3cceb5aaca8321cd8c2e5"
+          }
+        },
+        {
+          "client_id": "507179268523-8m3gg0ge4nvb82mbvd5o3ej7k5li45kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmiJYuQEXjc_sgJDbiqfIozfZtVkq71sQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507179268523-8m3gg0ge4nvb82mbvd5o3ej7k5li45kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
