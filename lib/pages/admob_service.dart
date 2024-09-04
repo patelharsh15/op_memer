@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'package:google_mobile_ads/google_mobile_ads.dart';
 
-//const String testDevice = '0b60a0dc8901ca7b635b7294ef48b01a';
+
 
 ///https://stackoverflow.com/questions/50972863/admob-banner-how-to-show-only-on-home
 ///
@@ -11,16 +11,8 @@ class AdmobService {
 
   static BannerAd get bannerAd => _bannerAd;
   static String get bannerAdUnitId => Platform.isAndroid
-      ? 'ca-app-pub-8047662979786600/6864360827'
-      : 'ca-app-pub-3940256099942544/2934735716';
-
-  //real ads -> ca-app-pub-8047662979786600/6864360827
-
-  // test id ca-app-pub-3940256099942544/6300978111
-
-  // static String get iOSInterstitialAdUnitID => Platform.isAndroid
-  //     ? 'ca-app-pub-3940256099942544/1033173712'
-  //     : 'cca-app-pub-3940256099942544/1033173712';
+      ? 'ca-app-pub-8047662979700/68640827'
+      : 'ca-app-pub-394025642544/2934716';
 
   static initialize() {
     if (MobileAds.instance == null) {
